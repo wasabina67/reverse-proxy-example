@@ -7,6 +7,10 @@ Reverse proxy example
 docker-compose up -d
 ```
 
+Open http://localhost/web1
+
+Open http://localhost/web2
+
 ## Stop
 
 ```bash
